@@ -9,4 +9,6 @@ Funktionen:
 4.) Programm beenden 
 
 Regeln:
-Maximal 10 Waggons pro Zug. Waggons haben drei vordefinierte Typen und eine Kapazität von 20 bis 130 Plätzen.
+Jeder Waggon einen von drei vordefinierten Typen (Passagierwagen, Schlafwagen und Speisewagen) und eine Kapazität (von 20 bis 130 Plätze). 
+Ein Zug besteht aus maximal 10 Waggons.
+Jeder Waggon hat eine eindeutige Position innerhalb des Zuges.
